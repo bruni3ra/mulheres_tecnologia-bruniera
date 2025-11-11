@@ -28,6 +28,7 @@ p {
 .imgcentro {
     width: 100px;
     height: 150px;
+    container: center;
 }
 
 nav{
