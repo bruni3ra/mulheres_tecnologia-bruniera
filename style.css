@@ -3,7 +3,7 @@ body {
 }
 
 .cabecalho{
-    background-color: black;
+    background-color: rgb(177, 93, 93);
     color: whitesmoke;
     padding-top: 30px;
     padding-bottom: 30px;
@@ -46,4 +46,9 @@ button{
     font-size: 16px;
     color: rgb(255, 0, 132);
 
+}
+
+.img {
+    width: 50px;
+    height: 150px;
 }
