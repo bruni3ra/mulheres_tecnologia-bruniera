@@ -20,7 +20,9 @@ body {
 }
 
 p {
-    
+    text-align: center;
+    color: green;
+    background-color: blue;
 }
 
 .imgcentro {
@@ -49,7 +51,3 @@ button{
 
 }
 
-.imggrace{
-    width: 50px;
-    height: 150px;
-}
