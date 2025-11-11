@@ -21,7 +21,7 @@ body {
 
 p {
     text-align: center;
-    color: green;
+    color: rgb(255, 255, 255);
     background-color: blue;
 }
 
