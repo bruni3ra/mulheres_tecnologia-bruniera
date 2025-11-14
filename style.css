@@ -22,7 +22,7 @@ body {
 p {
     text-align: center;
     color: rgb(255, 255, 255);
-    background-color: rgb(151, 74, 10);
+    background-color: rgb(148, 47, 47);
     display: flex;
 }
 
@@ -90,6 +90,6 @@ button{
     display: flex;
     justify-content: left;
     align-items: center;
-    background-color: #0c3a9c;
+    background-color: #ca5e94;
     padding: 20px;
 }
