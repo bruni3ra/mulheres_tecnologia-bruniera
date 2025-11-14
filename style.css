@@ -32,7 +32,7 @@ p {
     container: center;
     display: flex;
     margin-right: 20px;
-    text-align: left;
+    
 }
 
 nav{
@@ -69,4 +69,6 @@ button{
     text-align: right;
 }
 
-
+.img {
+    display: flex;
+}
