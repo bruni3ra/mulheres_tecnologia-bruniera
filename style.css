@@ -31,6 +31,7 @@ p {
     height: 150px;
     container: center;
     display: flex;
+    margin-right: 20px;
 }
 
 nav{
