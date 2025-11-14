@@ -97,3 +97,29 @@ button{
     background-color: #ca2fbd;
     padding: 20px;
 }
+
+.container-principal {
+    display: flex; /* Habilita o Flexbox para alinhar os elementos filhos (as duas colunas) lado a lado */
+    gap: 20px; /* Adiciona um espaço entre as colunas */
+}
+
+.coluna-esquerda {
+    display: flex;
+    flex-direction: column; /* Organiza os parágrafos internos em uma coluna (um embaixo do outro) */
+    flex: 1; /* Permite que esta coluna cresça para ocupar metade do espaço disponível */
+}
+
+.coluna-direita {
+    flex: 1; /* Permite que esta coluna cresça para ocupar a outra metade do espaço disponível */
+}
+
+/* Estilo opcional para melhor visualização */
+p {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+.coluna-esquerda p:last-child {
+    margin-bottom: 0; /* Remove a margem do último parágrafo na coluna esquerda */
+}
