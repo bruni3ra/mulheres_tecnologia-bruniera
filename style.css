@@ -119,3 +119,9 @@ p {
 .coluna-esquerda p:last-child {
     margin-bottom: 0; /* Remove a margem do último parágrafo na coluna esquerda */
 }
+
+.habilidades{
+    display: block;
+    margin-right: 0;
+    margin-bottom: 8px;
+}
