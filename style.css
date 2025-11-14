@@ -5,12 +5,7 @@ body {
     /* width: 100%; */
 }
 
-.imagem-redonda {
-  width: 200px; /* Defina a largura */
-  height: 200px; /* Defina a altura (igual à largura) */
-  border-radius: 50%; /* Arredonda o elemento para formar um círculo */
-  object-fit: cover; /* Garante que a imagem cubra a área sem distorcer */
-}
+
 
 .cabecalho{
     background-color: rgb(201, 128, 211);
