@@ -23,12 +23,14 @@ p {
     text-align: center;
     color: rgb(255, 255, 255);
     background-color: rgb(151, 74, 10);
+    display: flex;
 }
 
 .imgcentro {
     width: 100px;
     height: 150px;
     container: center;
+    display: flex;
 }
 
 nav{
@@ -64,4 +66,6 @@ body {
     height: 500px;
 
 }
+
+
 
