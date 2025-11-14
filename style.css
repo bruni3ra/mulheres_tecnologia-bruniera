@@ -109,10 +109,6 @@ button{
     flex: 1; /* Permite que esta coluna cresça para ocupar metade do espaço disponível */
 }
 
-.coluna-direita {
-    flex: 1; /* Permite que esta coluna cresça para ocupar a outra metade do espaço disponível */
-}
-
 /* Estilo opcional para melhor visualização */
 p {
     padding: 10px;
