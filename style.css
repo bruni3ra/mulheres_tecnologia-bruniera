@@ -1,7 +1,8 @@
 body { 
     background-image: url(https://www.publicdomainpictures.net/pictures/30000/nahled/old-background-1350553550zpI.jpg);
     background-repeat: no-repeat;
-    width: 100%;
+    background-size: cover;
+    /* width: 100%; */
 }
 
 .cabecalho{
