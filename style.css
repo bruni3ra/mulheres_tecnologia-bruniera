@@ -32,8 +32,8 @@ p {
 }
 
 .imgcentro {
-    width: 100px;
-    height: 150px;
+    width: 500px;
+    height: 400px;
     container: center;
     display: flex;
     margin-right: 20px;
