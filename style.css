@@ -125,3 +125,8 @@ p {
     margin-right: 0;
     margin-bottom: 8px;
 }
+
+.botao {
+    text-align: center;
+    background-color: green;
+}
