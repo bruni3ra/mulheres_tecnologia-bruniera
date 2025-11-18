@@ -99,6 +99,7 @@ button{
     overflow-y: auto; 
     position: relative; 
     box-shadow: red 60px -16px;
+    box-shadow: none;
 }
 
 .container-principal {
